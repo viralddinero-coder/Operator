@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { supabase } from '../../lib/supabase'
-import { operatorService, siteService, userService, photoService } from '../../services/api'
+import { operatorService, siteService, userService, photoService, albumService } from '../../services/api'
 
 const AdminProfilesPage: React.FC = () => {
   const [profiles, setProfiles] = useState<any[]>([])

@@ -13,6 +13,9 @@ const ChatPage: React.FC = () => {
   const [isLoading, setIsLoading] = useState(true);
   const { user, isAuthenticated } = useAuthStore();
   const [activeConversation, setActiveConversation] = useState<Conversation | null>(null);
+  const [showEmoji, setShowEmoji] = useState(false);
+  const [showMedia, setShowMedia] = useState(false);
+  const [mediaUrl, setMediaUrl] = useState('');
 
   const loadConversations = async () => {
     if (!user) return;

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect x="0" y="0" width="1280" height="800" fill="#faf5ff"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="1280" height="70" fill="#fff" stroke="#e5e7eb"/>
+  <text x="30" y="45" fill="#dc267f" font-size="26" font-weight="700">Dejtlycka</text>
+  <text x="980" y="45" fill="#555" font-size="16">Sök • Chatt • Profil • Inställningar</text>
+  <!-- Coins badge -->
+  <rect x="1120" y="20" width="100" height="30" rx="18" fill="#fef3c7" stroke="#fde68a"/>
+  <text x="1130" y="40" fill="#b45309" font-size="14">Mynt: 25</text>
+
+  <!-- Left: Conversations -->
+  <rect x="20" y="90" width="320" height="630" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <text x="40" y="120" fill="#111" font-size="18" font-weight="600">Mina chattar</text>
+  <rect x="40" y="150" width="280" height="60" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <text x="55" y="175" fill="#111" font-size="14">Amina95 • Online</text>
+  <circle cx="300" cy="175" r="6" fill="#22c55e"/>
+  <!-- Pending -->
+  <rect x="40" y="690" width="280" height="20" rx="6" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="55" y="704" fill="#64748b" font-size="12">Pending 7</text>
+
+  <!-- Middle: Chat -->
+  <rect x="360" y="90" width="560" height="630" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <rect x="380" y="110" width="520" height="60" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="410" cy="140" r="22" fill="#fecdd3"/>
+  <text x="440" y="136" fill="#111" font-size="16" font-weight="600">Amina95, 30</text>
+  <text x="440" y="154" fill="#64748b" font-size="12">Stockholm • Online</text>
+
+  <!-- Messages -->
+  <rect x="380" y="180" width="520" height="430" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <rect x="395" y="200" width="260" height="48" rx="10" fill="#fce7f3"/>
+  <text x="405" y="230" fill="#9d174d" font-size="13">Hej! 😊</text>
+  <rect x="625" y="260" width="260" height="48" rx="10" fill="#e0f2fe"/>
+  <text x="635" y="290" fill="#075985" font-size="13">Kul att höra!</text>
+
+  <!-- Input -->
+  <rect x="380" y="620" width="520" height="80" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="395" y="668" fill="#94a3b8" font-size="14">Skriv... • 😊 • 🖼️ • Skicka</text>
+  <text x="820" y="668" fill="#111" font-size="12">1 skick = 1 mynt</text>
+
+  <!-- Right: Balance & Purchase -->
+  <rect x="940" y="90" width="320" height="280" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <text x="960" y="120" fill="#111" font-size="18" font-weight="600">Mina mynt</text>
+  <rect x="960" y="140" width="280" height="70" rx="10" fill="#fef3c7" stroke="#fde68a"/>
+  <text x="975" y="182" fill="#b45309" font-size="16" font-weight="700">25</text>
+  <rect x="960" y="220" width="280" height="40" rx="8" fill="#22c55e"/>
+  <text x="1025" y="247" fill="#fff" font-size="14" font-weight="600">Köp fler mynt</text>
+
+  <!-- Right: Suggestions / Gallery -->
+  <rect x="940" y="390" width="320" height="330" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <text x="960" y="420" fill="#111" font-size="18" font-weight="600">Galleri / Förslag</text>
+  <rect x="960" y="440" width="90" height="70" rx="8" fill="#e2e8f0"/>
+  <rect x="1060" y="440" width="90" height="70" rx="8" fill="#e2e8f0"/>
+  <rect x="1160" y="440" width="90" height="70" rx="8" fill="#e2e8f0"/>
+  <text x="960" y="530" fill="#64748b" font-size="12">Blurrade bilder kräver åtkomst</text>
+</svg>
+

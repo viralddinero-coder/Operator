@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="800" viewBox="0 0 1280 800">
+  <rect x="0" y="0" width="1280" height="800" fill="#f7f7fb"/>
+  <!-- Header -->
+  <rect x="0" y="0" width="1280" height="70" fill="#000"/>
+  <text x="30" y="45" fill="#d4af37" font-size="28" font-weight="700">Affilyx</text>
+  <text x="130" y="45" fill="#ccc" font-size="18" font-weight="600">Operators</text>
+  <text x="980" y="45" fill="#eee" font-size="16">Dashboard • Chattar • Inställningar</text>
+
+  <!-- Left: Chat list -->
+  <rect x="20" y="90" width="320" height="630" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <text x="40" y="120" fill="#111" font-size="18" font-weight="600">Konversationer</text>
+  <rect x="40" y="150" width="280" height="60" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="55" y="175" fill="#111" font-size="14">Amina95, 30 • Stockholm</text>
+  <circle cx="300" cy="175" r="6" fill="#22c55e"/>
+  <rect x="40" y="220" width="280" height="60" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <text x="55" y="245" fill="#111" font-size="14">Sofia88, 28 • Göteborg</text>
+  <circle cx="300" cy="245" r="6" fill="#eab308"/>
+  <rect x="40" y="290" width="280" height="60" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <text x="55" y="315" fill="#111" font-size="14">Emma92, 32 • Malmö</text>
+  <circle cx="300" cy="315" r="6" fill="#94a3b8"/>
+  <rect x="40" y="690" width="280" height="20" rx="6" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="55" y="704" fill="#64748b" font-size="12">Pending 12</text>
+
+  <!-- Middle: Chat -->
+  <rect x="360" y="90" width="560" height="630" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <rect x="380" y="110" width="520" height="60" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="410" cy="140" r="22" fill="#bfdbfe"/>
+  <text x="440" y="135" fill="#111" font-size="16" font-weight="600">Amina95</text>
+  <text x="440" y="155" fill="#64748b" font-size="12">30 • Stockholm • Online</text>
+  <rect x="730" y="125" width="70" height="26" rx="6" fill="#fff" stroke="#e5e7eb"/>
+  <text x="745" y="143" fill="#111" font-size="12">Om Mig</text>
+  <rect x="805" y="125" width="60" height="26" rx="6" fill="#fff" stroke="#e5e7eb"/>
+  <text x="820" y="143" fill="#111" font-size="12">Bilder</text>
+  <rect x="870" y="125" width="70" height="26" rx="6" fill="#fff" stroke="#e5e7eb"/>
+  <text x="885" y="143" fill="#111" font-size="12">Favorit</text>
+  <rect x="945" y="125" width="70" height="26" rx="6" fill="#fff" stroke="#e5e7eb"/>
+  <text x="960" y="143" fill="#dc2626" font-size="12">Blockera</text>
+
+  <rect x="860" y="110" width="100" height="26" rx="6" fill="#fef3c7" stroke="#fde68a"/>
+  <text x="870" y="128" fill="#b45309" font-size="12">Mynt: 120</text>
+
+  <rect x="380" y="180" width="520" height="430" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <rect x="395" y="200" width="260" height="48" rx="10" fill="#22c55e" opacity="0.1"/>
+  <text x="405" y="230" fill="#065f46" font-size="13">Hej! Hur mår du idag? 😊</text>
+  <rect x="625" y="260" width="260" height="48" rx="10" fill="#3b82f6" opacity="0.15"/>
+  <text x="635" y="290" fill="#1e3a8a" font-size="13">Jag mår toppen! Ska vi ses? 💖</text>
+  <rect x="380" y="620" width="520" height="80" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="395" y="668" fill="#94a3b8" font-size="14">Skriv... • 😊 • 🖼️ • Skicka</text>
+  <text x="820" y="668" fill="#111" font-size="12">1 skick = 1 mynt</text>
+
+  <!-- Right: Player card + notes + targets -->
+  <rect x="940" y="90" width="320" height="630" rx="12" fill="#fff" stroke="#e5e7eb"/>
+  <!-- Player card -->
+  <text x="960" y="120" fill="#111" font-size="18" font-weight="600">Aktuell Player</text>
+  <rect x="960" y="135" width="280" height="70" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <circle cx="990" cy="170" r="20" fill="#fecdd3"/>
+  <text x="1015" y="165" fill="#111" font-size="14" font-weight="600">Luna</text>
+  <text x="1015" y="185" fill="#64748b" font-size="12">24</text>
+
+  <!-- Player note -->
+  <text x="960" y="225" fill="#111" font-size="18" font-weight="600">Anteckning (player)</text>
+  <rect x="960" y="240" width="280" height="90" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="970" y="270" fill="#64748b" font-size="12">Beständiga anteckningar om kvinnlig profil</text>
+
+  <!-- Chat note -->
+  <text x="960" y="345" fill="#111" font-size="18" font-weight="600">Anteckning (chatt)</text>
+  <rect x="960" y="360" width="280" height="90" rx="8" fill="#f8fafc" stroke="#e5e7eb"/>
+  <text x="970" y="390" fill="#64748b" font-size="12">Unik per konversation</text>
+
+  <!-- Targets online grid with name overlay -->
+  <text x="960" y="470" fill="#111" font-size="18" font-weight="600">Targets online</text>
+  <rect x="960" y="485" width="280" height="220" rx="8" fill="#fff" stroke="#e5e7eb"/>
+  <!-- 2x2 grid cards -->
+  <g>
+    <rect x="970" y="495" width="125" height="95" rx="8" fill="#e2e8f0"/>
+    <rect x="1105" y="495" width="125" height="95" rx="8" fill="#e2e8f0"/>
+    <rect x="970" y="595" width="125" height="95" rx="8" fill="#e2e8f0"/>
+    <rect x="1105" y="595" width="125" height="95" rx="8" fill="#e2e8f0"/>
+    <rect x="970" y="560" width="125" height="30" fill="#000" opacity="0.4"/>
+    <text x="980" y="580" fill="#fff" font-size="12">Emma • 32</text>
+    <rect x="1105" y="560" width="125" height="30" fill="#000" opacity="0.4"/>
+    <text x="1115" y="580" fill="#fff" font-size="12">Sofia • 28</text>
+    <rect x="970" y="660" width="125" height="30" fill="#000" opacity="0.4"/>
+    <text x="980" y="680" fill="#fff" font-size="12">Amina • 30</text>
+    <rect x="1105" y="660" width="125" height="30" fill="#000" opacity="0.4"/>
+    <text x="1115" y="680" fill="#fff" font-size="12">Lisa • 26</text>
+  </g>
+</svg>
+
